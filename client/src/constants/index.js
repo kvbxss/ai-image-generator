@@ -1,0 +1,17 @@
+export const surpriseMePrompts = [
+  "A futuristic cityscape with flying cars and towering holographic billboards.",
+  "An enchanted forest filled with glowing mushrooms and whimsical creatures.",
+  "A steampunk-inspired underwater world with submarines and mechanical sea creatures.",
+  "A surreal desert landscape with floating islands and rainbow-colored sand dunes.",
+  "An otherworldly space station orbiting a distant planet, with alien architecture.",
+  "A post-apocalyptic wasteland with crumbling buildings and overgrown vegetation.",
+  "A cyberpunk city with neon lights and futuristic technology.",
+  "A fantasy kingdom with castles and dragons.",
+  "A prehistoric jungle with dinosaurs and primitive tribes.",
+  "A haunted mansion with ghosts and paranormal activity.",
+  "A medieval village with knights and a dragon.",
+  "A futuristic space colony with advanced technology and alien lifeforms.",
+  "A pirate ship on the open seas with a kraken and treasure.",
+  "A magical kingdom with fairies and unicorns.",
+  "A dystopian society with oppressive government control and rebellion.",
+];
